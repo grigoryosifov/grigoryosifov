@@ -8,9 +8,9 @@ As the CEO of [Forci Web Consulting](https://forci.com) and former CTO at Taylor
 A snapshot of the key technologies I’ve mastered:
 
 ### **Languages & Frameworks**
-- **Backend:** PHP, Python, Perl, Java, Apex (Salesforce), C#
-- **Frontend:** JavaScript, HTML5, CSS3
-- **Frameworks:** Symfony, Laravel, Zend Framework
+- **Backend:** PHP, TypeScript, Node.js, Python, Perl, Java, Apex (Salesforce), C#
+- **Frontend:** TypeScript, JavaScript, React, Next.js, HTML5, CSS3
+- **Frameworks:** Symfony, NestJS, Laravel, Zend Framework
 - **Scripting & Automation:** bash, Tcl
 - **Advanced:** SOLID, various software design patterns, PCRE (Perl Compatible Regular Expressions)
 
@@ -31,9 +31,11 @@ A snapshot of the key technologies I’ve mastered:
 - **Favorite Daemons:** nginx, Apache, BIND
 
 ### **Tools & Development Environment**
-- **IDEs:** JetBrains IntelliJ IDEA, PhpStorm
+- **IDEs:** Cursor (VS Code), JetBrains IntelliJ IDEA, PhpStorm
 - **Text Editors:** BBEdit, vim, nano
 - **Version Control:** git (GitHub, GitLab)
+- **Development Tools:** ESLint, Prettier, Jest, Turbopack, GraphQL Code Generator
+- **UI/UX Tools:** TailwindCSS, Headless UI
 
 ### **Agile Project Management**
 - **Methodologies:** Scrum, Kanban, Hybrid Models
