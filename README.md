@@ -10,7 +10,7 @@ A snapshot of the key technologies I’ve mastered:
 ### **Languages & Frameworks**
 - **Backend:** PHP (Symfony, Laravel), TypeScript (NestJS), Node.js, Python, Perl, Java, Apex (Salesforce), C#
 - **Frontend:** TypeScript (React, Next.js), JavaScript, HTML5, CSS3
-- **Scripting & Automation:** bash, zsh (Oh My Zsh)
+- **Scripting & Automation:** sh, bash, Perl
 - **Advanced:** SOLID, various software design patterns, PCRE (Perl Compatible Regular Expressions)
 
 ### **APIs & Data**
@@ -21,7 +21,7 @@ A snapshot of the key technologies I’ve mastered:
 - **CMS Platforms:** WordPress, Joomla, OpenCart, ZenCart, osCommerce, Tiki Wiki CMS Groupware
 
 ### **Cloud & Infrastructure**
-- **Cloud Platforms:** AWS, Linode, Cloudflare
+- **Cloud Platforms:** Cloudflare, AWS, Akamai Cloud
 - **Containerization & Orchestration:** Docker, Kubernetes, Docker Compose
 - **Infrastructure as Code (IaC):** Terraform
 - **CI/CD:** Jenkins, GitLab CI/CD
