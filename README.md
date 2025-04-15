@@ -8,10 +8,9 @@ As the CEO of [Forci Web Consulting](https://forci.com) and former CTO at Taylor
 A snapshot of the key technologies I’ve mastered:
 
 ### **Languages & Frameworks**
-- **Backend:** PHP, TypeScript, Node.js, Python, Perl, Java, Apex (Salesforce), C#
-- **Frontend:** TypeScript, JavaScript, React, Next.js, HTML5, CSS3
-- **Frameworks:** Symfony, NestJS, Laravel, Zend Framework
-- **Scripting & Automation:** bash, Tcl
+- **Backend:** PHP (Symfony, Laravel), TypeScript (NestJS), Node.js, Python, Perl, Java, Apex (Salesforce), C#
+- **Frontend:** TypeScript (React, Next.js), JavaScript, HTML5, CSS3
+- **Scripting & Automation:** bash, zsh (Oh My Zsh)
 - **Advanced:** SOLID, various software design patterns, PCRE (Perl Compatible Regular Expressions)
 
 ### **APIs & Data**
